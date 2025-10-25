@@ -2,12 +2,9 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Virtual Box</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Virtual Box](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- [Lab 3?](https://github.com/joshmadakor1/Sentinel-Lab)
 
 
 
@@ -17,7 +14,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-  www.linkedin.com/in/josephciaccio
+- www.linkedin.com/in/josephciaccio
+
 
   
 
